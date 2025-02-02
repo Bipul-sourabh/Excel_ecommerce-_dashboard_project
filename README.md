@@ -1,5 +1,5 @@
 
-**Project Overview**  
+#**Project Overview**  
 This project focuses on developing a dynamic e-commerce sales dashboard in Excel, linked to multiple sheets. The dashboard is designed to update automatically as data changes, providing real-time insights to help management make informed decisions regarding sales, profit, and customer trends.
 
 **Key Performance Indicators (KPIs)**
