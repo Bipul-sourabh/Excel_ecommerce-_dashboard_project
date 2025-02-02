@@ -10,7 +10,7 @@ This project focuses on developing a dynamic e-commerce sales dashboard in Excel
 - Profit Margin
 - Year-over-Year (YoY) Growth
 
-**Process**  
+** Process**  
 - **Data Integration**: Linked various sheets containing sales, product, and regional data to a central dashboard.  
 - **Dynamic Updates**: Dashboard is connected to the underlying data, allowing it to automatically update as data changes.  
 - **Visualization**: Created dynamic charts and graphs, including sales and profit analysis, category-wise performance, and state-wise sales distribution.
@@ -22,6 +22,7 @@ This project focuses on developing a dynamic e-commerce sales dashboard in Excel
 - **Sales by State**: Visualizes sales distribution across different states.  
 - **Top 5 Sales Categories**: Identifies the best-performing product categories.  
 - **Filters/Slicers**: Users can filter data by year, region, and segment to view specific insights.
+- 
   ![Screenshot 2025-02-02 162315](https://github.com/user-attachments/assets/94462d00-e41a-49e2-b40b-670d2a2c7cee)
 
 
